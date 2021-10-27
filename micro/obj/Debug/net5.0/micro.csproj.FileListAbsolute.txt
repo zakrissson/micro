@@ -1,0 +1,16 @@
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.csproj.AssemblyReference.cache
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.AssemblyInfoInputs.cache
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.AssemblyInfo.cs
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.csproj.CoreCompileInputs.cache
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\micro.exe
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\micro.deps.json
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\micro.runtimeconfig.json
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\micro.runtimeconfig.dev.json
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\micro.dll
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\ref\micro.dll
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\bin\Debug\net5.0\micro.pdb
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.dll
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\ref\micro.dll
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.pdb
+C:\Users\zakrisson.ronja\Desktop\prr\micro\micro\obj\Debug\net5.0\micro.genruntimeconfig.cache
